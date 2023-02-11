@@ -1,14 +1,8 @@
-variable "cluster_name" {
-  default     = "gke-cluster"
-}
+variable "cluster_name" {}
 
 variable "location" {}
 
-variable "project_id" {
-  description = "sincere-actor-377315"
-  type = string
-  default = "sincere-actor-377315"
-}
+variable "project_id" {}
 
 variable "master_version" {}
 
