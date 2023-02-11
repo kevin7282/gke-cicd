@@ -1,6 +1,6 @@
-cluster_name           = "production-cluster"
+cluster_name           = "gke-cluster"
 location               = "us-east1"
-project_id             = "grounded-will-296203"
+project_id             = "sincere-actor-377315"
 subnetwork             = "default"
 node_pool_name         = "production-cluster-node-pool-2"
 master_version         = "1.15.12-gke.3"
