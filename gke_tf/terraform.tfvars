@@ -1,6 +1,6 @@
 cluster_name           = "production-cluster"
 location               = "us-east1"
-project_id             = "grounded-will-296203"
+project_id             = "sincere-actor-377315"
 subnetwork             = "default"
 istio_enabled          = "false"
 istio_auth             = "AUTH_MUTUAL_TLS"
